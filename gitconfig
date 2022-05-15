@@ -1,0 +1,14 @@
+# vim: set ft=gitconfig:
+
+[user]
+	name = Kotaro Wada
+	email = www.kotaro.wada@gmail.com
+[pull]
+	rebase = true
+	rabese = true
+[push]
+	default = current
+[pager]
+	log = less
+	show = less
+	diff = less
